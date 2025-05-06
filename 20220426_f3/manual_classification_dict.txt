@@ -1,0 +1,25 @@
+manual_class_info = {
+
+	0:'MC', 
+	1:'notIN', 
+	2:'glia', 
+	3:'MC', 
+	4:'glia', 
+	5:'looseMC', 
+	6:'immature',
+	7:'MC', 
+	8:'immature',
+	9:'point', 
+	10:'incompleteMC', 
+	11:'immature', 
+	12:'idk',
+	13:'astrocyte',
+	14:'knobsMC',
+	15:'cortical'
+	16:'dead',
+	17:'IN',
+	18:'unclear/too incomplete', 
+	19:'bigMerger',
+	20:'fixMistake',
+	21:'roundIN'
+}  
